@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#F5EEDD"/>
+  <g transform="translate(256 256)">
+    <circle r="196" fill="none" stroke="#12212D" stroke-width="16"/>
+    <circle r="162" fill="none" stroke="#12212D" stroke-width="7" opacity="0.55"/>
+    <g stroke="#12212D">
+      <line x1="0" y1="-196" x2="0" y2="-170" stroke-width="14"/>
+      <line x1="0" y1="196" x2="0" y2="170" stroke-width="14"/>
+      <line x1="-196" y1="0" x2="-170" y2="0" stroke-width="14"/>
+      <line x1="196" y1="0" x2="170" y2="0" stroke-width="14"/>
+      <line x1="-139" y1="-139" x2="-120" y2="-120" stroke-width="8"/>
+      <line x1="139" y1="-139" x2="120" y2="-120" stroke-width="8"/>
+      <line x1="-139" y1="139" x2="-120" y2="120" stroke-width="8"/>
+      <line x1="139" y1="139" x2="120" y2="120" stroke-width="8"/>
+    </g>
+    <path d="M-47 54 C-47 -24 -24 -93 3 -127 C9 -68 34 -10 50 54 Z" fill="#12212D"/>
+    <path d="M-113 78 Q-79 55 -45 78 T23 78 T91 78" fill="none" stroke="#12212D" stroke-width="13" stroke-linecap="round"/>
+    <path d="M-84 112 Q-55 92 -26 112 T32 112 T88 112" fill="none" stroke="#12212D" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  </g>
+</svg>

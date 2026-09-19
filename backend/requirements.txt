@@ -1,0 +1,11 @@
+# ORCA backend — deliberately small so it installs in seconds on any laptop.
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.6
+httpx>=0.27
+
+# Optional (production / advanced ML path — the prototype runs without them):
+# scikit-learn>=1.4      # risk model training
+# xgboost>=2.0           # gradient-boosted risk + PFZ ranking
+# shapely>=2.0           # swap in for the pure-python geometry in data/geo.py
+# psycopg[binary]>=3.1   # PostgreSQL + PostGIS
